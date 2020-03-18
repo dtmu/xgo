@@ -2,7 +2,7 @@
 This is cli tool to build all binary for multi platform.
 See the following page about combination of $GOOS and $GOARCH.
 
-** I noticed that you should use gox after I made this tool! hahaha
+** I noticed that you should use gox after I made this tool! hahaha!   
 https://github.com/mitchellh/gox
 
 # Usage
